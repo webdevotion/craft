@@ -9,5 +9,12 @@
             "name": "Jason McCallister",
             "email": "themccallister@gmail.com"
         }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "6.2.*",
+        "symfony/console": "3.1.*"
+    },
+    "bin": [
+        "craft"
     ]
 }
