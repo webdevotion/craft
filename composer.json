@@ -2,7 +2,7 @@
     "name": "webdevotion/craft",
     "description": "Install Craft CMS from the command line.",
     "keywords": ["craft","craftcms"],
-    "homepage": "http://github.com/themccallister/craft",
+    "homepage": "http://github.com/webdevotion/craft",
     "license": "MIT",
     "authors": [
         {
