@@ -16,5 +16,10 @@
     },
     "bin": [
         "craft"
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "CraftCli\\": "src"
+        }
+    }
 }
